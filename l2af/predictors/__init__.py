@@ -1,0 +1,1 @@
+from l2af.predictors.l2af_predictor_binary import L2AFPredictor
