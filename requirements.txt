@@ -1,3 +1,3 @@
-git+https://github.com/allenai/allennlp.git@6f5f56578364d1231b457253a42dcf709ee2e619#egg=allennlp
+allennlp==0.8.4
 overrides
 sklearn
