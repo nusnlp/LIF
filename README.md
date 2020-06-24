@@ -92,9 +92,10 @@ This should download the models inside `data/pretrained-model`.
 
 ### Evaluation ###
 
-For evaluation, you need to generate the prediction file for dev set and test set.
-Running the prediction is necessary as we estimate the threshold based
-on the performance on the dev set. To run the evaluation, simply run:
+For evaluation, one needs to generate the prediction files for both the dev set
+and the test set. Running the prediction on the dev set is necessary
+as we estimate the threshold based on the performance on the dev set.
+To run the evaluation, simply run:
 
 ```bash
 python evaluator.py --dev_pred_file /path/to/dev_predictions.jsonl \
