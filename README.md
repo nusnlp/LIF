@@ -101,3 +101,10 @@ To run the evaluation, simply run:
 python evaluator.py --dev_pred_file /path/to/dev_predictions.jsonl \
                     --test_pred_file /path/to/test_predictions.jsonl
 ```
+
+### License ###
+
+The code and models in this repository are licensed under the GNU General Public License Version 3. For commercial use of this code and models, separate commercial licensing is also available. Please contact:
+* Souvik Kundu ([souvik@u.nus.edu](mailto:souvik@u.nus.edu))
+* Qian Lin ([qlin@u.nus.edu](mailto:qlin@u.nus.edu))
+* Hwee Tou Ng ([nght@comp.nus.edu.sg](mailto:nght@comp.nus.edu.sg))
