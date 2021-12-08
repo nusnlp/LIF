@@ -2,7 +2,7 @@
 
 This repository contains the data and source code of the
 paper [Learning to Identify Follow-up Questions in Conversational
-Question Answering](https://www.aclweb.org/anthology/2020.acl-main.90.pdf).
+Question Answering](https://aclanthology.org/2020.acl-main.90.pdf).
 
 
 ### Overview  ###
